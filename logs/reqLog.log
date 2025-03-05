@@ -1,2 +1,14 @@
 250305	17:57:07	67d172e0-da39-441b-a60a-c329c9d01237	GET	/	undefined
 250305	17:57:07	b5f1009f-4c7f-4128-a6d5-50d60a658ed4	GET	/css/style.css	undefined
+250305	19:48:17	c623b3bd-6881-48af-940e-2b4bccf492f7	OPTIONS	/	https://www.google.com
+250305	19:48:17	488fb8b2-ab03-475a-8800-1c111b1daa50	GET	/	https://www.google.com
+250305	19:50:48	6863db2c-7c59-46b7-ae71-ee61544de307	OPTIONS	/	https://www.google.com
+250305	19:50:48	6f39d0a0-28c0-4859-8c82-8e908bccc908	GET	/	https://www.google.com
+250305	20:09:01	3b7327f2-5034-4085-b238-6f73e19a14de	OPTIONS	/	https://www.google.com
+250305	20:09:01	e0fbcd81-cd20-481d-87e7-20c2a92a3d3e	GET	/	https://www.google.com
+250305	20:09:09	1e287e09-346e-428e-8abc-4db213e52a7e	OPTIONS	/	https://www.google.com
+250305	20:09:09	bdf76189-847d-4db4-ac0c-87d809aced28	GET	/	https://www.google.com
+250305	20:09:25	18ea750c-3ebd-4d5a-8714-d3d5979de763	OPTIONS	/	https://www.google.com
+250305	20:09:25	2a08a7bf-15e3-47f5-88a2-93435971c27c	GET	/	https://www.google.com
+250305	20:18:31	6b2b4506-14c1-4a7e-ad41-9f6fe37d7328	OPTIONS	/	https://www.google.com
+250305	20:18:31	1541a81d-f983-4a87-9483-94b2b1bad43b	GET	/	https://www.google.com

@@ -20,6 +20,7 @@
   "homepage": "https://github.com/tanvi-jain3/TechNotesApp#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "express": "^4.21.2",
     "nodemon": "^3.1.9",
