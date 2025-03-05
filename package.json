@@ -1,0 +1,25 @@
+{
+  "name": "technotesapp",
+  "version": "1.0.0",
+  "description": "TechNotes MERN Project",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server",
+    "dev" : "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvi-jain3/TechNotesApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvi-jain3/TechNotesApp/issues"
+  },
+  "homepage": "https://github.com/tanvi-jain3/TechNotesApp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
