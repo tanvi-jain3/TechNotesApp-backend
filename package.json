@@ -4,8 +4,8 @@
   "description": "TechNotes MERN Project",
   "main": "index.js",
   "scripts": {
-    "start" : "node server",
-    "dev" : "nodemon server"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/tanvi-jain3/TechNotesApp#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "date-fns": "^4.1.0",
     "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
   }
 }
